@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "895592757685",
+    "firebase_url": "https://iotwatering-3893b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "iotwatering-3893b",
+    "storage_bucket": "iotwatering-3893b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895592757685:android:ba012abe3d6e47a7c2c1fc",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895592757685-hcnm5jq0i6g3v6ohn7qht3kg88iis5kn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT4NdFpzCdNWZkZtNlygIGSYmuEHfPaCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895592757685-hcnm5jq0i6g3v6ohn7qht3kg88iis5kn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

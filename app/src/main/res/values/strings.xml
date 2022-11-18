@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">IOT APP</string>
+    <string name="register"><b>PHẦN MỀM GIÁM SÁT NHIỆT ĐỘ, ĐỘ ẨM VÀ ĐIỀU KHIỂN</b></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
